@@ -1,5 +1,5 @@
 <style>
-    /* Custom Navbar Styling */
+    /* Custom Navbar Styling to make it more visually appealing */
     .navbar {
         background-color: #66a5e4; 
     }
@@ -18,7 +18,7 @@
     }
 
     /* Custom Table Styling */
-    .table th { /* Change color of the table header */
+    .table th { /* Change color of the table header for increased readablility */
         background-color: #8bbdf3;
         color: rgb(0, 0, 0);
         text-align: center;
