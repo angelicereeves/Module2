@@ -1,17 +1,15 @@
-# 🧩 Module 2 Knowledge Check: Bootstrap Web Page
+# Module 2 Knowledge Check: Bootstrap Web Page
 
-## 📋 Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Author](#author)
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 This project was built for the Module 2 knowledge check in the Coding Temple Software Engineering Bootcamp.
 The goal was to create a fully responsive webpage using Bootstrap components and utility classes.
@@ -20,7 +18,7 @@ It is designed to demonstrate understanding of Bootstrap's layout system, forms,
 
 ---
 
-## 🌟 Features
+## Features
 
 - Responsive navigation bar with collapse behavior for small screens
 - Bootstrap-based registration form with validation and grid layout
@@ -32,7 +30,7 @@ It is designed to demonstrate understanding of Bootstrap's layout system, forms,
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 To view or run this project, you need:
 
@@ -43,27 +41,20 @@ To view or run this project, you need:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 To use this project locally:
 
-1. Clone this repository or download the ZIP
+1. Clone this repository: https://github.com/angelicereeves/Module2
 2. Open the project folder in your editor
 3. Open `index.html` in your browser
 4. (Optional) Add your own images to replace the placeholders
 
 ---
 
-## 🧪 Usage
+## Usage
 
 - This project demonstrates a complete Bootstrap-powered webpage layout
 - Use it as a reference for form validation, responsive tables, layout utilities, and navbars
-- Modify or expand sections as needed for your own projects
 
 ---
-
-## 📷 Screenshots
-
-_Add screenshots here after running the webpage in your browser._
-
-Example format:
