@@ -1,0 +1,26 @@
+<style>
+    /* Custom Navbar Styling */
+    .navbar {
+        background-color: #66a5e4; 
+    }
+
+    .navbar-brand {
+        color: #007bff;
+    }
+
+    .nav-link {
+        color: #333;
+        margin-right: 15px;
+    }
+
+    .nav-link:hover {
+        color: #007bff;;
+    }
+
+    /* Custom Table Styling */
+    .table th { /* Change color of the table header */
+        background-color: #8bbdf3;
+        color: rgb(0, 0, 0);
+        text-align: center;
+    }
+</style>
