@@ -15,6 +15,7 @@ This project was built for the Module 2 knowledge check in the Coding Temple Sof
 The goal was to create a fully responsive webpage using Bootstrap components and utility classes.
 The page includes a registration form, a styled data table, an image section, responsive buttons, and a navigation bar.
 It is designed to demonstrate understanding of Bootstrap's layout system, forms, tables, responsive images, and responsive utilities.
+This was a lot of fun to make and helped me to understand bootsrap, and uploading to github very well!
 
 ---
 
