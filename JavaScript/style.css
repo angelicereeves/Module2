@@ -99,6 +99,24 @@ table.rock-table tbody tr:hover td {
   color: #ccc;
 }
 
+/* ========== Legends Cards Styling ========== */
+
+.rock-card {
+  border: 2px solid crimson;
+  background-color: #1a1a1a;
+  color: white;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.rock-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 15px rgba(255, 0, 0, 0.4);
+}
+
+.rock-card .card-title {
+  color: gold;
+  font-family: 'Rock Salt', cursive;
+}
 
 
 
